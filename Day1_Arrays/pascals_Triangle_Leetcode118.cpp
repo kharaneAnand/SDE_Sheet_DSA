@@ -50,3 +50,9 @@ int main(){
     }
     return 0 ;
 }
+
+
+/*
+time complexity is  n^2 (1+2+3+4.... => n(n+1) / 2 => n^2 ) 
+space Complexity is n^2 (2D matrix we created )
+*/
